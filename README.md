@@ -34,6 +34,12 @@ Plataforma regional de freelancers do Amapá — conectando clientes e prestador
 
 ---
 
+## 📊 Minhas Estatísticas
+
+![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaykybm-dev&show_icons=true&theme=dark&hide_border=true)
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayky-barreto-4019aa383/)
